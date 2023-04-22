@@ -90,7 +90,7 @@ body{
     background-size: 100%;
     background-position: center;
     background-color: #751a1a;
-    border-image-outset: url('/Images/pic3.png');
+    border-image-outset: url('Images/pic3.png');
     
 }
 
@@ -159,31 +159,31 @@ body {
   }
   
   .slider .slide:nth-child(1) {
-    background-image: url('/Images/pic3.png');
+    background-image: url('Images/pic3.png');
     animation-delay: -0;
     height: 400;
   }
   
   .slider .slide:nth-child(2) {
-    background-image: url('/Images/Pic5.png');
+    background-image: url('Images/Pic5.png');
     animation-delay: -2s;
     height: 400;
   }
     
   .slider .slide:nth-child(3) {
-    background-image: url('/Images/pic4.png');
+    background-image: url('Images/pic4.png');
     animation-delay: -4s;
     height: 400;
   }
     
   .slider .slide:nth-child(4) {
-    background-image: url('/Images/pic2.png');
+    background-image: url('Images/pic2.png');
     animation-delay: -6s;
     height: 400;
   }
   
   .slider .slide:nth-child(5) {
-    background-image: url('/Images/Pic1.png');
+    background-image: url('Images/Pic1.png');
     animation-delay: -8s;
     height: 4zzzz00;
   }
